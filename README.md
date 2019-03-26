@@ -42,12 +42,12 @@ Mobile first is to design for the mobile views before the desktop. Mobile first 
 This helps us easly convert px to rem. html at 100% equals 1rem (16px) when html is set to 62.5%, 16px is equal to 1.6rem.
 
 4. How would you describe preprocessing to someone new to CSS?
-Its a software that converts a language suach as lss in to css and html that the browser can read. 
+Its a software that converts a language ,such as lss into css and html, that the browser can read. 
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 My favorite concept of preprocessing is nesting. I didnt have any trouble with the concepts i found them helpful because i could orginize and write less code.
 
-You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+You are expected to be able to answer all these questions. Yours responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
