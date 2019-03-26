@@ -278,8 +278,14 @@ footer {
 }
 @media (max-width: 500px) {
   .home .walk .walk-text .btn button {
+    max-width: 800px;
     width: 100%;
+    margin: 0 auto;
   }
+}
+.home .walk .walk-text .btn button:hover {
+  background-color: green;
+  color: black;
 }
 .home .walk .walk-img {
   width: 46%;
